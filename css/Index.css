@@ -257,7 +257,7 @@ body, html{
     background: white;
 }
 .container:hover{
-    box-shadow: 1px 1px 5px rgb(100, 99, 99);
+    box-shadow: 1px 1px 4px rgb(100, 99, 99);
     transition: 0.4s;
 }
 
