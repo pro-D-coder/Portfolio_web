@@ -244,7 +244,7 @@ body, html{
     width: 100%;
     height: 100%;
     margin: 0;
-    background: rgb(234,212,201);
+    background: linear-gradient(180deg,#ffe603,rgb(0, 0, 0));
     background-size: cover;
 }
 .container{
@@ -255,6 +255,7 @@ body, html{
     height: 570px;
     border-radius: 15px;
     background: white;
+    border: none;
 }
 .container:hover{
     box-shadow: 1px 1px 4px rgb(100, 99, 99);
